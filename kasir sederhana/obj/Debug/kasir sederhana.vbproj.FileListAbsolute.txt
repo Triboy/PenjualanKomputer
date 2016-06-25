@@ -1,0 +1,21 @@
+E:\Project TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.exe.config
+E:\Project TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.exe
+E:\Project TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.pdb
+E:\Project TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.xml
+E:\Project TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir_sederhana.Form1.resources
+E:\Project TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir_sederhana.Resources.resources
+E:\Project TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.vbproj.GenerateResource.Cache
+E:\Project TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.exe
+E:\Project TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.xml
+E:\Project TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.pdb
+E:\TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.exe.config
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.exe
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.xml
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.pdb
+E:\TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.exe
+E:\TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.pdb
+E:\TKPPL\kasir sederhana\kasir sederhana\bin\Debug\kasir sederhana.xml
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir_sederhana.Form1.resources
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir_sederhana.Resources.resources
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir sederhana.vbproj.GenerateResource.Cache
+E:\TKPPL\kasir sederhana\kasir sederhana\obj\Debug\kasir_sederhana.Login.resources
